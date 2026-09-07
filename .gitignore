@@ -1,0 +1,25 @@
+# Python / Ambientes Virtuais
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Projetos independentes (cada um possui seu próprio repositório Git)
+projetos/
+
+# Anotações Pessoais, Logs e Backups
+notes/
+antigravity_backup/
+graphify-out/
+.graphifyignore
+scratch_pb.py
+
+# Configurações de Agentes e Ferramentas Locais
+.agent/
+.agents/
+.jupyter/
+.vscode/
+.idea/

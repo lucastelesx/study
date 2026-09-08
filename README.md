@@ -21,4 +21,4 @@ alura/
 - **Clean Code**: Boas práticas de nomenclatura, funções com responsabilidade única e modularização.
 
 ---
-Desenvolvido por [Lucas Telles](https://github.com/lucastelesx).
+Desenvolvido por [Lucas Teles](https://github.com/lucastelesx).

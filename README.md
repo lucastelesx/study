@@ -19,6 +19,3 @@ alura/
 - **Tratamento de Exceções**: Blocos `try/except` defensivos e tratamento de erros.
 - **Manipulação de Dados com Pandas**: Filtragem booleana, criação de colunas condicionais, agregações e agrupamentos (`groupby`).
 - **Clean Code**: Boas práticas de nomenclatura, funções com responsabilidade única e modularização.
-
----
-Desenvolvido por [Lucas Teles](https://github.com/lucastelesx).
